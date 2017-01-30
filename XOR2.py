@@ -50,6 +50,6 @@ def menu():
         print('\nChoose 1 or 2')
 menu()
 
-#Decrypt this!
+#Decrypt this!!
 #6a 0 4b 3e a 3e 51 32 66 10 29 32 59 4a 48 57 3d 32 2f 76
 #"a=[*X$\FuGQ+38#T\HW
