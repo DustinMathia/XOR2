@@ -1,2 +1,2 @@
 # XOR2
-dustins cool kid project
+xor encryption home-made
